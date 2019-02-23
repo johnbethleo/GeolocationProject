@@ -1,0 +1,272 @@
+[
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1550926577327,
+            "changeTime": 1550926577327,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1550926577336,
+            "changeTime": 1550926577336,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1550930911746,
+            "changeTime": 1550930911746,
+            "contentHash": "26700fa385d7435b9658ffa27095dde3388347b1"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1550926420147,
+            "changeTime": 1550926420147,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1550926513534,
+            "changeTime": 1550926513534,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1550926577332,
+            "changeTime": 1550926577332,
+            "contentHash": "345c04f0bb30a9c2f22b188cc96e39de4179450a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 403,
+            "modifiedTime": 1550927723073,
+            "changeTime": 1550927723073,
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9582,
+            "modifiedTime": 1550927723082,
+            "changeTime": 1550927723082,
+            "contentHash": "b1147d7789c84115e211f58721fa912fea93654c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9630,
+            "modifiedTime": 1550927723092,
+            "changeTime": 1550927723092,
+            "contentHash": "3d2eb4a1cc29b3e1dc5e6feba7e37fa152623195",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9630,
+            "modifiedTime": 1550927723097,
+            "changeTime": 1550927723097,
+            "contentHash": "dcdf8712700a9c47addd7bf70102c8aa5cd38a22",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9582,
+            "modifiedTime": 1550927723102,
+            "changeTime": 1550927723102,
+            "contentHash": "ae2a52f5aed66a201000ad6ac9a92ea7f3734278",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 366,
+            "modifiedTime": 1550927723104,
+            "changeTime": 1550927723104,
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1550927723073,
+            "changeTime": 1550927723073,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1550927723072,
+            "changeTime": 1550927723072,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1550927723072,
+            "changeTime": 1550927723072,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1550927723102,
+            "changeTime": 1550927723102,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1550927723104,
+            "changeTime": 1550927723104,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1550930911767,
+            "changeTime": 1550930911767,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 293,
+            "modifiedTime": 1550931143218,
+            "changeTime": 1550931143218,
+            "contentHash": "8fde073151082df06ee0dfccf1250ef72d79271e"
+        }
+    ],
+    [
+        "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/john.ting/Documents/3. Accelerators/13. Salesforce DX/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1550930911767,
+            "changeTime": 1550930911767,
+            "contentHash": "7acf1df0ec0781930c8dacf0ffedfb1e5aa2864f"
+        }
+    ]
+]
